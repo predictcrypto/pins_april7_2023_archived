@@ -73,3 +73,8 @@
   rows: 17211
   cols: 3
   type: table
+- path: bdao_price
+  name: bdao_price
+  rows: 17212
+  cols: 3
+  type: table
