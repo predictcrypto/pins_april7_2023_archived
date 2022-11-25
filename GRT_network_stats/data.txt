@@ -1,0 +1,69 @@
+path:
+- data.csv
+- data.rds
+rows: 2869
+cols: 62
+columns:
+  GRTinETH: character
+  GRTinUSD: character
+  activeDelegationCount: integer
+  activeDelegatorCount: integer
+  arbitrator: character
+  channelDisputeEpochs: integer
+  curationPercentage: integer
+  curationTaxPercentage: integer
+  curatorCount: integer
+  currentEpoch: integer
+  defaultReserveRatio: integer
+  delegationCount: integer
+  delegationParametersCooldown: integer
+  delegationRatio: integer
+  delegationTaxPercentage: integer
+  delegationUnbondingPeriod: integer
+  delegatorCount: integer
+  epochCount: integer
+  epochLength: integer
+  fishermanRewardPercentage: integer
+  indexerCount: integer
+  indexingSlashingPercentage: integer
+  isPartialPaused: integer
+  isPaused: integer
+  lastLengthUpdateBlock: integer
+  lastLengthUpdateEpoch: integer
+  lastRunEpoch: integer
+  maxAllocationEpochs: integer
+  minimumCurationDeposit: character
+  minimumDisputeDeposit: character
+  minimumIndexerStake: character
+  networkGRTIssuance: character
+  ownerTaxPercentage: integer
+  protocolFeePercentage: integer
+  querySlashingPercentage: integer
+  rebateRatio: character
+  stakedIndexersCount: integer
+  subgraphAvailabilityOracle: character
+  subgraphCount: integer
+  subgraphDeploymentCount: integer
+  thawingPeriod: integer
+  totalCuratorQueryFees: character
+  totalDelegatedTokens: character
+  totalDelegatorQueryFeeRebates: character
+  totalGRTBurned: character
+  totalGRTMinted: character
+  totalIndexerQueryFeeRebates: character
+  totalIndexerQueryFeesCollected: character
+  totalIndexingDelegatorRewards: character
+  totalIndexingIndexerRewards: character
+  totalIndexingRewards: character
+  totalQueryFees: character
+  totalSupply: character
+  totalTaxedQueryFees: character
+  totalTokensAllocated: character
+  totalTokensClaimable: character
+  totalTokensSignalled: character
+  totalTokensStaked: character
+  totalUnclaimedQueryFeeRebates: character
+  totalUnstakedTokensLocked: character
+  date_utc: Date
+  date_time_utc: POSIXct
+type: table

@@ -8,3 +8,8 @@
   rows: 0
   cols: 26
   type: table
+- path: GRT_network_stats
+  name: GRT_network_stats
+  rows: 2869
+  cols: 62
+  type: table
