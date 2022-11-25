@@ -1,0 +1,18 @@
+path:
+- data.csv
+- data.rds
+rows: 107923
+cols: 11
+columns:
+  timestamp: integer
+  liquidity: character
+  liquidityETH: character
+  liquidityUSD: character
+  priceUSD: character
+  txCount: character
+  volume: character
+  volumeETH: character
+  volumeUSD: character
+  symbol: character
+  date: POSIXct
+type: table

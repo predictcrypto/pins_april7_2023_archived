@@ -98,3 +98,8 @@
   rows: 10261
   cols: 19
   type: table
+- path: sushiswap_daily
+  name: sushiswap_daily
+  rows: 107923
+  cols: 11
+  type: table
