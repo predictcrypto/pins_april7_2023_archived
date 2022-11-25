@@ -1,0 +1,21 @@
+path:
+- https://github.com/predictcrypto/pins/releases/download/sushiswap_hourly-72b449d/data.csv
+- data.rds
+rows: 197671
+cols: 14
+columns:
+  periodStartUnix: integer
+  volume: character
+  volumeUSD: character
+  untrackedVolumeUSD: character
+  totalValueLocked: character
+  totalValueLockedUSD: character
+  priceUSD: character
+  feesUSD: character
+  open: character
+  high: character
+  low: character
+  close: character
+  symbol: character
+  date: POSIXct
+type: table
