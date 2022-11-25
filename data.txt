@@ -3,3 +3,8 @@
   rows: 20
   cols: 1
   type: table
+- path: open_cv_sales
+  name: open_cv_sales
+  rows: 0
+  cols: 26
+  type: table

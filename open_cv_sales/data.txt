@@ -1,0 +1,33 @@
+path:
+- data.csv
+- data.rds
+rows: 0
+cols: 26
+columns:
+  NA.: integer
+  token_id: character
+  num_sales: integer
+  image_url: character
+  order_created_date: character
+  listing_timestamp: integer
+  listing_expires_timestamp: integer
+  seller: character
+  seller_address: character
+  price: numeric
+  price_token: character
+  name: character
+  image: character
+  x: character
+  'y': character
+  description: character
+  area: numeric
+  width: integer
+  depth: integer
+  height: integer
+  elevation: integer
+  island: character
+  title: character
+  url: character
+  suburb: character
+  order_closing_date: character
+type: table
