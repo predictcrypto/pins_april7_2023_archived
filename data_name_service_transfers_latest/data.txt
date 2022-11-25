@@ -1,0 +1,8 @@
+path:
+- data.csv
+- data.rds
+rows: 20
+cols: 1
+columns:
+  transfer_summary: character
+type: table
