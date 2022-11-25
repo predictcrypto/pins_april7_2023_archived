@@ -1,0 +1,10 @@
+path:
+- data.csv
+- data.rds
+rows: 17212
+cols: 3
+columns:
+  date_utc: Date
+  date_time_utc: POSIXct
+  flame_price: numeric
+type: table
