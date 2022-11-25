@@ -30,7 +30,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17221
+  rows: 17220
   cols: 3
   type: table
 - path: stkr_price
@@ -92,4 +92,9 @@
   name: sushiswap_hourly
   rows: 197671
   cols: 14
+  type: table
+- path: decentraland_MANA_orders
+  name: decentraland_MANA_orders
+  rows: 10261
+  cols: 19
   type: table
