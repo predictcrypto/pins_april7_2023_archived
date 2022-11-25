@@ -93,8 +93,3 @@
   rows: 197671
   cols: 14
   type: table
-- path: hitBTC_orderbook
-  name: hitBTC_orderbook
-  rows: 300000
-  cols: 27
-  type: table
