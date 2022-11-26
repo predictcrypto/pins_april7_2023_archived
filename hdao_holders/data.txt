@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 9303
+cols: 9
+columns:
+  active: logical
+  firstLevel: integer
+  lastLevel: integer
+  updates: integer
+  address: character
+  hdao_value: numeric
+  percent_of_supply: numeric
+  date: Date
+  timestamp: POSIXct
+type: table
