@@ -118,3 +118,8 @@
   rows: 750
   cols: 6
   type: table
+- path: full_metrics
+  name: full_metrics
+  rows: 38710
+  cols: 7
+  type: table
