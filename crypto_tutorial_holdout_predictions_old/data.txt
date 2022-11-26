@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 8960
+cols: 9
+columns:
+  symbol: character
+  split: numeric
+  holdout_predictions: numeric
+  date_time_utc: POSIXct
+  date: Date
+  price_usd: numeric
+  target_price_24h: numeric
+  model: character
+  last_refreshed: POSIXct
+type: table
