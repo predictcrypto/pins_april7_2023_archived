@@ -110,7 +110,7 @@
   type: table
 - path: hdao_holders
   name: hdao_holders
-  rows: 9305
+  rows: 9306
   cols: 9
   type: table
 - path: crypto_tutorial_results_latest
