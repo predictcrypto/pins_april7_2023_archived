@@ -1,5 +1,5 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/sushiswap_hourly-30f4393/data.csv
+- https://github.com/predictcrypto/pins/releases/download/sushiswap_hourly-ecf68d9/data.csv
 - data.rds
 rows: 197671
 cols: 14
