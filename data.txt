@@ -45,17 +45,17 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17222
+  rows: 17223
   cols: 3
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 17222
+  rows: 17223
   cols: 3
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17222
+  rows: 17223
   cols: 3
   type: table
 - path: sdao_price
@@ -100,7 +100,7 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 112899
+  rows: 112597
   cols: 11
   type: table
 - path: hitBTC_orderbook
