@@ -85,7 +85,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17168
+  rows: 17169
   cols: 3
   type: table
 - path: sushiswap_hourly
