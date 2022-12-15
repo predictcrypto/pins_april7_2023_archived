@@ -100,7 +100,7 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 114196
+  rows: 114524
   cols: 11
   type: table
 - path: hitBTC_orderbook
