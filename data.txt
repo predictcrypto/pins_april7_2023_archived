@@ -8,3 +8,8 @@
   rows: 17232
   cols: 3
   type: table
+- path: wrap_price
+  name: wrap_price
+  rows: 17235
+  cols: 3
+  type: table
