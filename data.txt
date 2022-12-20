@@ -48,3 +48,8 @@
   rows: 17233
   cols: 3
   type: table
+- path: rsal_price
+  name: rsal_price
+  rows: 17234
+  cols: 3
+  type: table
