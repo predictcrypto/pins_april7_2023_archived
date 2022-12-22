@@ -48,3 +48,8 @@
   rows: 17151
   cols: 3
   type: table
+- path: sdao_price
+  name: sdao_price
+  rows: 17151
+  cols: 3
+  type: table
