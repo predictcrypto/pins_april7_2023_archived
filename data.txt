@@ -40,7 +40,7 @@
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 17219
+  rows: 17218
   cols: 3
   type: table
 - path: ethtz_price
@@ -100,6 +100,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 118583
+  rows: 118886
   cols: 11
   type: table
