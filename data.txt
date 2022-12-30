@@ -5,7 +5,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17229
+  rows: 17230
   cols: 3
   type: table
 - path: GRT_network_stats
