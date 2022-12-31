@@ -113,3 +113,8 @@
   rows: 8405
   cols: 9
   type: table
+- path: crypto_tutorial_holdout_predictions
+  name: crypto_tutorial_holdout_predictions
+  rows: 8405
+  cols: 9
+  type: table
