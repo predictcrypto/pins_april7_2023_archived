@@ -25,7 +25,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17182
+  rows: 17183
   cols: 3
   type: table
 - path: kusd_price
