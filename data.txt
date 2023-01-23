@@ -10,12 +10,12 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2879
+  rows: 2877
   cols: 62
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17268
+  rows: 17269
   cols: 3
   type: table
 - path: wxtz_price
