@@ -35,7 +35,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17219
+  rows: 17218
   cols: 3
   type: table
 - path: usdtz_price
@@ -100,7 +100,7 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 126759
+  rows: 127435
   cols: 11
   type: table
 - path: crypto_tutorial_results_latest
