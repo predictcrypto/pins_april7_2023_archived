@@ -75,7 +75,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17129
+  rows: 17130
   cols: 3
   type: table
 - path: hitBTC_orderbooks_github
