@@ -20,7 +20,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17211
+  rows: 17210
   cols: 3
   type: table
 - path: stkr_price
@@ -110,11 +110,11 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 8265
+  rows: 8250
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 8265
+  rows: 8250
   cols: 9
   type: table
