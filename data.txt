@@ -100,7 +100,7 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 131492
+  rows: 131813
   cols: 11
   type: table
 - path: crypto_tutorial_results_latest
