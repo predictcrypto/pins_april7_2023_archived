@@ -33,3 +33,8 @@
   rows: 17255
   cols: 3
   type: table
+- path: usdtz_price
+  name: usdtz_price
+  rows: 17256
+  cols: 3
+  type: table
