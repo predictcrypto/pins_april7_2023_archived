@@ -30,7 +30,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17220
+  rows: 17219
   cols: 3
   type: table
 - path: usdtz_price
@@ -112,4 +112,9 @@
   name: decentraland_MANA_orders
   rows: 10404
   cols: 19
+  type: table
+- path: sushiswap_daily
+  name: sushiswap_daily
+  rows: 132456
+  cols: 11
   type: table
