@@ -5,17 +5,17 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17135
+  rows: 17136
   cols: 3
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17139
+  rows: 17140
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17138
+  rows: 17139
   cols: 3
   type: table
 - path: stkr_price
