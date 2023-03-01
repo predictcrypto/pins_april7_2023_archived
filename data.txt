@@ -70,7 +70,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17208
+  rows: 17209
   cols: 3
   type: table
 - path: GRT_network_stats
@@ -105,7 +105,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 9890
+  rows: 9650
   cols: 9
   type: table
 - path: decentraland_MANA_orders
