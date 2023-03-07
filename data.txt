@@ -70,7 +70,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17186
+  rows: 17187
   cols: 3
   type: table
 - path: GRT_network_stats
