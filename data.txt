@@ -105,7 +105,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 8505
+  rows: 8435
   cols: 9
   type: table
 - path: decentraland_MANA_orders
