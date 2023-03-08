@@ -35,12 +35,12 @@
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 17133
+  rows: 17132
   cols: 3
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17131
+  rows: 17132
   cols: 3
   type: table
 - path: sdao_price
