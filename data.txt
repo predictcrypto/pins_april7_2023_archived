@@ -90,7 +90,7 @@
   type: table
 - path: sushiswap_hourly
   name: sushiswap_hourly
-  rows: 197590
+  rows: 197589
   cols: 14
   type: table
 - path: crypto_tutorial_results_latest
