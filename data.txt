@@ -20,12 +20,12 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17190
+  rows: 17189
   cols: 3
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 17189
+  rows: 17190
   cols: 3
   type: table
 - path: usds_price
