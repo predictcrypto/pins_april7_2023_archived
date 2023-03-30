@@ -93,3 +93,8 @@
   rows: 197479
   cols: 14
   type: table
+- path: crypto_tutorial_results_latest
+  name: crypto_tutorial_results_latest
+  rows: 840
+  cols: 6
+  type: table
