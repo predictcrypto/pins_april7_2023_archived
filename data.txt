@@ -10,12 +10,12 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17275
+  rows: 17132
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17274
+  rows: 17131
   cols: 3
   type: table
 - path: stkr_price
@@ -75,7 +75,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2854
+  rows: 2873
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
