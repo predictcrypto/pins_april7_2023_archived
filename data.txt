@@ -5,12 +5,12 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17207
+  rows: 17206
   cols: 3
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17211
+  rows: 17209
   cols: 3
   type: table
 - path: wxtz_price
