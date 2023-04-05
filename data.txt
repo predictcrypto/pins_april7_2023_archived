@@ -50,12 +50,12 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 17210
+  rows: 17208
   cols: 3
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17208
+  rows: 17210
   cols: 3
   type: table
 - path: bdao_price
