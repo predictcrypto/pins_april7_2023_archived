@@ -60,17 +60,17 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17243
+  rows: 17244
   cols: 3
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 17242
+  rows: 17241
   cols: 3
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17240
+  rows: 17241
   cols: 3
   type: table
 - path: GRT_network_stats
